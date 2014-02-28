@@ -1,4 +1,6 @@
-//TODO: check for the type
+//TODO: check for the type then length then value
+// If we did do this, we would need to do a for loop
+// instead of setting this up with a dictionary
 
 function findDupe(myArray) {
     var emptyObject = {};
